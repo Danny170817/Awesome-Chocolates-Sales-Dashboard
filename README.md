@@ -1,4 +1,4 @@
-##******Awesome Chocolates Sales Dashboard in Power BI******
+##  ******Awesome Chocolates Sales Dashboard in Power BI******
 
 ### **Overview**
 This repository contains the resources and instructions for creating a **Sales Performance Dashboard** in Power BI using **Awesome Chocolates** sales data. The dashboard provides key insights into **total sales, costs, profits, shipments, and sales representatives’ performance**. It includes interactive visualizations that allow users to analyze **monthly sales trends, profitability, and regional performance**.
